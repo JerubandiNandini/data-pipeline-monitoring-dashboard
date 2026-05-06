@@ -1,0 +1,51 @@
+id,title,genre,status,watch_time,subscription_type,region
+1,Stranger Things,Sci-Fi,active,120,Premium,US
+2,Money Heist,Crime,active,95,Standard,India
+3,Dark,Sci-Fi,active,110,Premium,Germany
+4,The Witcher,Fantasy,failed,0,Basic,US
+5,Breaking Bad,Drama,active,130,Premium,US
+6,INVALID,INVALID,failed,0,Basic,Unknown
+7,Friends,Comedy,active,80,Standard,UK
+8,The Office,Comedy,active,75,Basic,US
+9,Narcos,Crime,active,90,Standard,Brazil
+10,INVALID,Drama,failed,0,Basic,India
+11,Peaky Blinders,Crime,active,105,Premium,UK
+12,Black Mirror,Sci-Fi,active,60,Standard,US
+13,Lucifer,Fantasy,active,85,Premium,US
+14,The Crown,Drama,active,100,Premium,UK
+15,INVALID,INVALID,failed,0,Basic,Unknown
+16,Ozark,Crime,active,95,Standard,US
+17,Vikings,History,active,110,Premium,Canada
+18,Squid Game,Thriller,active,70,Premium,South Korea
+19,Alice in Borderland,Thriller,active,65,Standard,Japan
+20,INVALID,Comedy,failed,0,Basic,India
+21,Bridgerton,Drama,active,85,Premium,UK
+22,You,Thriller,active,90,Standard,US
+23,Sex Education,Comedy,active,75,Standard,UK
+24,The Boys,Action,active,95,Premium,US
+25,INVALID,INVALID,failed,0,Basic,Unknown
+26,House of Cards,Drama,active,100,Premium,US
+27,The Last Kingdom,History,active,105,Standard,UK
+28,Emily in Paris,Comedy,active,60,Basic,France
+29,The Umbrella Academy,Sci-Fi,active,85,Premium,US
+30,INVALID,Drama,failed,0,Basic,India
+31,Mindhunter,Crime,active,95,Premium,US
+32,The Sandman,Fantasy,active,90,Standard,UK
+33,The Queen's Gambit,Drama,active,80,Premium,US
+34,The Haunting of Hill House,Horror,active,85,Standard,US
+35,INVALID,INVALID,failed,0,Basic,Unknown
+36,Cobra Kai,Action,active,75,Standard,US
+37,Better Call Saul,Drama,active,110,Premium,US
+38,Lost in Space,Sci-Fi,active,85,Standard,US
+39,The Good Place,Comedy,active,65,Basic,US
+40,INVALID,Comedy,failed,0,Basic,India
+41,The Expanse,Sci-Fi,active,95,Premium,Canada
+42,Naruto,Anime,active,120,Standard,Japan
+43,One Piece,Anime,active,130,Premium,Japan
+44,Attack on Titan,Anime,active,125,Premium,Japan
+45,INVALID,INVALID,failed,0,Basic,Unknown
+46,Death Note,Anime,active,100,Standard,Japan
+47,Demon Slayer,Anime,active,115,Premium,Japan
+48,Tokyo Ghoul,Anime,active,90,Standard,Japan
+49,Jujutsu Kaisen,Anime,active,105,Premium,Japan
+50,INVALID,Drama,failed,0,Basic,India
