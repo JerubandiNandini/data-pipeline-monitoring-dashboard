@@ -17,7 +17,7 @@ This project simulates a real-world data pipeline system that:
 
 ## Workflow
 
-1. Data Processing (`realprocessor.py`)
+1. Data Processing (`real_processor.py`)
 2. Log Generation (`logs.json`)
 3. Dashboard Visualization (`dashboard.py`)
 
