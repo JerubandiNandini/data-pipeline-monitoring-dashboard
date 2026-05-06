@@ -49,7 +49,7 @@ Step 3: Install dependencies
 pip install -r requirements.txt
 
 Step 4: Run data processor
-python realprocessor.py
+python real_processor.py
 
 Step 5: Run dashboard
 streamlit run dashboard.py
